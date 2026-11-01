@@ -1,0 +1,14 @@
+/Users/ahmed/RiderProjects/areacalc/areacalc/bin/Debug/net10.0/areacalc
+/Users/ahmed/RiderProjects/areacalc/areacalc/bin/Debug/net10.0/areacalc.deps.json
+/Users/ahmed/RiderProjects/areacalc/areacalc/bin/Debug/net10.0/areacalc.runtimeconfig.json
+/Users/ahmed/RiderProjects/areacalc/areacalc/bin/Debug/net10.0/areacalc.dll
+/Users/ahmed/RiderProjects/areacalc/areacalc/bin/Debug/net10.0/areacalc.pdb
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.AssemblyInfoInputs.cache
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.AssemblyInfo.cs
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.csproj.CoreCompileInputs.cache
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.dll
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/refint/areacalc.dll
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.pdb
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/areacalc.genruntimeconfig.cache
+/Users/ahmed/RiderProjects/areacalc/areacalc/obj/Debug/net10.0/ref/areacalc.dll
